@@ -9,7 +9,7 @@ The first published agent is **Sena**, a personal-assistant agent designed to co
 ## Contents
 | Agent | Description |
 |------|------------|
-| `Sena.md` | Full instruction set for a personal assistant agent (calendar & task coordination, email filtering, MCP integration). |
+| `sena.md` | Full instruction set for a personal assistant agent (calendar & task coordination, email filtering, MCP integration). |
 
 ---
 
@@ -23,7 +23,7 @@ Sena is a personal assistant agent whose purpose is to **reduce workload through
 * **Notifications** – sends concise Telegram-style debug and status updates.
 * **Extensible skills** – example: create draft replies, unsubscribe links.
 
-The full neutral instruction set is in [`Sena.md`](Sena.md).  
+The full neutral instruction set is in [`sena.md`](sena.md).  
 It is **anonymised**: all personal names, company names, and email addresses have been replaced with generic placeholders.
 
 ---
